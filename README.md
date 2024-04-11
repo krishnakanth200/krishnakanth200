@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishnakanthSubbisetty
 - 👀 I’m interested in Java Full Stack development.
 - 🌱 I’m currently learning Java, MY SQl, JDBC, Hybernate, Spring, Spring Boot, HTML, CSS, Java Script, React.js, Python, Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java Development and Front End Development...
 - 📫 How to reach me krishnakanthsubbisetty@gmail.com
 
 <!---
